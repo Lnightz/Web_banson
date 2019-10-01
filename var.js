@@ -10,7 +10,7 @@ const data =
             Category1: "Son M.O.O.I",
             LuotMua: 0,
             Tag: ["Son", "Son gấc"],
-            Mota: "Đây là sản phẩm gấu nâu",
+            Mota: "<p><b>Công dụng: </b>Son dưỡng môi gấc từ dầu dừa giúp dưỡng ẩm môi tối ưu, ngăn ngừa tình trạng môi khô nứt nẻ, chống lão hóa cho môi.</p><p><b>Thành phần:</b> Gấc, Dầu dừa , Sáp ong, Bơ Cacao, Vitamin e.</p><p><b>Hướng dẫn sử dụng:</b></p><ul><li>Dùng để dưỡng môi: Thoa son dưỡng môi gấc từ dầu dừa trực tiếp lên môi mỗi khi bạn cảm thấy môi khô.</li><li>Dùng để tẩy tế bào chết cho môi:</li><ul><li>Buổi tối trước khi đi ngủ, bạn hãy sử dụng son dưỡng Dầu dừa Sáp ong Tinh dầu gấc</li><li>Sáng thức dậy, bạn hãy dùng khăn giấy lau nhẹ môi, tế bào chết ở môi sẽ trôi theo, để lại làn môi mềm mượt và căng bóng. Lúc này bạn tha hồ sử dụng các loại son màu mà không lo môi khô và nứt nẻ.</li></ul></ul>",
         },
 
         {
@@ -22,19 +22,19 @@ const data =
             Category: "Son M.O.O.I",
             LuotMua: 0,
             Tag: ["Son", "Son dừa"],
-            Mota: "Đây là sản phẩm gấu nâu",
+            Mota: "<p><b>Công dụng: </b>Giúp cho môi giữ được độ ẩm và căng mọng, quyến rũ một cách tự nhiên, đồng thời không sợ bất cứ phản ứng phụ nào so với những sản phẩm trên thì trường, ngay cả đối với người có làn môi nhạy cảm</p><p><b>Thành phần: </b>Dầu dừa, Sáp ong, Bơ Shea, Vitamin E</p><p><b>Hướng dẫn sử dụng: </b>Mỗi ngày, bôi lên môi 2-3 lần hoặc bất cứ khi nào bạn muốn. Đặc biệt, trước khi đi ngủ, bạn bôi 1 lớp dày và để yên qua đêm. Môi sẽ ngày càng hồng hào tự nhiên mà không cần dùng mỹ phẩm đắt tiền.</p>",
         },
 
         {
             Id: "3",
             LinkImageSP: "images/son-den-mooi.jpg",
-            NameSP: "Son dưỡng củ dền - Son M.O.O.I",
+            NameSP: "Son dưỡng gấc và dền - Son M.O.O.I",
             SaleSP: 25000,
             money: 40000,
             Category: "Son M.O.O.I",
             LuotMua: 0,
             Tag: ["Son", "Son dền"],
-            Mota: "Đây là sản phẩm gấu nâu",
+            Mota: "<p><b>Công dụng: </b>Giúp môi hồng hào một cách tự nhiên nhờ vào nước ép củ dền, chứa nhiều Vitamin A, E.</p><p><b>Thành phần: </b>Củ dền, Dền dầu dừa, Sáp ong, Bơ xoài, Bơ Shea, Vitamin E.</p><p><b>Hướng dẫn sử dụng: </b> Mỗi ngày, bôi lên môi 2-3 lần hoặc bất cứ khi nào bạn muốn. Đặc biệt, trước khi đi ngủ, bạn bôi 1 lớp dày và để yên qua đêm. Môi sẽ ngày càng hồng hào tự nhiên mà không cần dùng mỹ phẩm đắt tiền.</p>",
         },
 
         {
@@ -64,49 +64,49 @@ const data =
         {
             Id: "6",
             LinkImageSP: "images/son-dau-gao.jpg",
-            NameSP: "Son dưỡng gạo hương dâu - Cỏ mềm",
+            NameSP: "Son dưỡng gạo hương dâu - Cỏ ba lá",
             SaleSP: 80000,
             money: 90000,
             Category: "Son các hãng khác",
             LuotMua: 0,
             Tag: ["Son", "son gạo"],
-            Mota: "Sản phẩm son gạo hương dâu của hãng cỏ mềm",
+            Mota: "Sản phẩm son gạo hương dâu của hãng cỏ ba lá",
         },
 
         {
             Id: "7",
             LinkImageSP: "images/son-cam-gao.jpg",
-            NameSP: "Son dưỡng gạo hương cam - Cỏ mềm",
+            NameSP: "Son dưỡng gạo hương cam - Cỏ ba lá",
             SaleSP: 80000,
             money: 90000,
             Category: "Son các hãng khác",
             LuotMua: 0,
             Tag: ["son", "son gạo"],
-            Mota: "Sản phẩm son gạo hương cam của hãng cỏ mềm",
+            Mota: "Sản phẩm son gạo hương cam của hãng cỏ ba lá",
         },
 
         {
             Id: "8",
             LinkImageSP: "images/son-tra-gao.jpg",
-            NameSP: "Son dưỡng gạo trà xanh - Cỏ mềm",
+            NameSP: "Son dưỡng gạo trà xanh - Cỏ ba lá",
             SaleSP: 80000,
             money: 90000,
             Category: "Son các hãng khác",
             LuotMua: 0,
             Tag: ["son", "son gạo"],
-            Mota: "Sản phẩm son gạo hương trà xanh của hãng cỏ mềm",
+            Mota: "Sản phẩm son gạo hương trà xanh của hãng cỏ ba lá",
         },
 
         {
             Id: "9",
             LinkImageSP: "images/son-gao.jpg",
-            NameSP: "Son dưỡng gạo - Cỏ mềm",
+            NameSP: "Son dưỡng gạo - Cỏ ba lá",
             SaleSP: 80000,
             money: 90000,
             Category: "Son các hãng khác",
             LuotMua: 0,
             Tag: ["son", "son gạo"],
-            Mota: "Sản phẩm son gạo hương gạo của hãng cỏ mềm",
+            Mota: "Sản phẩm son gạo hương gạo của hãng cỏ ba lá",
         },
 
         {
